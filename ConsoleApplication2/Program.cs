@@ -15,8 +15,12 @@ namespace ConsoleApplication2
             List<int> ser = new List<int>();
             for (int i = 3; i < 9; i++)
             {
-                if(i%2==0)
+                if (i % 2 == 0)
+                { }
             }
+
+
+            string p = string.Empty;
         }
         static void Main(string[] args)
         {
